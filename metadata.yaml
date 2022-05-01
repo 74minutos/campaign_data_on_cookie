@@ -1,5 +1,5 @@
 homepage: "https://visiondefunnel.com"
 documentation: "https://visiondefunnel.com/2022/05/01/utms-y-gtm-i-campanas-en-app-y-play-store/"
 versions:
-  - sha:
+  - sha: e1200079a3af29a12102e5c323618bf94476b131
     changeNotes: Initial release.
